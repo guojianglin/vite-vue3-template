@@ -1,3 +1,6 @@
+# 参考这篇文章[从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境
+](https://mp.weixin.qq.com/s/uLliWY6-PGNA9jog4myEkg)
+
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
